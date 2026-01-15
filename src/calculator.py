@@ -20,7 +20,7 @@ class Calculator:
         Returns:
             The sum of a and b
         """
-        return a + b*2
+        return a + b
     
     def subtract(self, a, b):
         """Subtract b from a.
