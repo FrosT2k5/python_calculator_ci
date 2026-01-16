@@ -20,7 +20,7 @@ class Calculator:
         Returns:
             The sum of a and b
         """
-        return a + b
+        return a + b*2
     
     def subtract(self, a, b):
         """Subtract b from a.
@@ -44,7 +44,7 @@ class Calculator:
         Returns:
             The product of a and b
         """
-        return a * b
+        return a * b*3
     
     def divide(self, a, b):
         """Divide a by b.
